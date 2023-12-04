@@ -14,3 +14,13 @@ Worked with other team members to resolve technical issues and ensure app stabil
 
 
 ### Technolgies : Clean Architecture, Kotlin, MVVM, Xml, Clean Code, Socket, Custom views, Hilt, Room, Analytics, Git, Notifications, Webview, Retrofit, Navigation Component.
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/kozimovbotirali/Android-Portfolio/main/images/40uz/main.webp" width="250" height = "500"  title="Storyfy Application">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/kozimovbotirali/Android-Portfolio/main/images/40uz/offer.webp" width="250" height = "500"  title="Storyfy Application">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/kozimovbotirali/Android-Portfolio/main/images/40uz/search.webp" width="250" height = "500"  title="Storyfy Application">
+</p>
+
+https://github.com/kozimovbotirali/Android-Portfolio/assets/55086570/77f71057-3f14-4df4-9d8b-b05d0a9417bd
+
+https://github.com/kozimovbotirali/Android-Portfolio/assets/55086570/14e0d806-e41c-41ee-86dd-7337e7296660
